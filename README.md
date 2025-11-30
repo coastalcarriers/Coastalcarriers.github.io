@@ -1,3 +1,0 @@
-<html> 
-  <backgroundcolor=blue>
-</html>
